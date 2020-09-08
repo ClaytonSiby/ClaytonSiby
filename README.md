@@ -2,7 +2,7 @@
 ![profession](http://www.espritvtec.com/wp-content/uploads/2015/01/good-software-developer.gif)
 # I'm a Full-Stack Software Developer
 
-- 🌱 I’m currently working on collaborative open-source projects remotely as part of Microverse Software Developers Training Program. 
+- 🌱 I’m currently working on open-source projects remotely as part of Microverse Software Developers Training Program. 
 
 #### 📫 How to reach me:
 - Github: [@Clayton Siby](https://github.com/ClaytonSiby)
