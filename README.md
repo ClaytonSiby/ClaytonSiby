@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 my name is Clayton Siby
+![profession](http://www.espritvtec.com/wp-content/uploads/2015/01/good-software-developer.gif)
+# I'm a Full-Stack Software Developer
 
-<!--
-**ClaytonSiby/ClaytonSiby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently working on collaborative open-source projects remotely as part of Microverse Software Developers Training Program. 
 
-Here are some ideas to get you started:
+#### 📫 How to reach me:
+- Github: [@Clayton Siby](https://github.com/ClaytonSiby)
+- Twitter: [@ClaytonSiby](https://twitter.com/ClaytonSiby)
+- Linkedin: [linkedin](https://www.linkedin.com/in/clayton-siby-48a8a0183/)
+- Email: claytonsiby@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun fact:
+- I love coffee :coffee:
