@@ -11,4 +11,4 @@
 - Email: claytonsiby@gmail.com
 
 ### ⚡ Fun fact:
-- I love coffee :coffee:
+- I love coffee :coffee: :smile:
