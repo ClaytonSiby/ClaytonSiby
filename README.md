@@ -1,8 +1,10 @@
-### Hi there 👋 my name is Clayton Siby
-![profession](http://www.espritvtec.com/wp-content/uploads/2015/01/good-software-developer.gif)
+### Hi👋 My name is Clayton Siby
+
 # I'm a Full-Stack Software Developer
 
 - 🌱 I’m currently working on open-source projects remotely as part of Microverse Software Developers Training Program. 
+
+![Clayton's github stats](https://github-readme-stats.vercel.app/api?username=ClaytonSiby&show_icons=true&theme=radical)
 
 #### 📫 How to reach me:
 - Github: [@Clayton Siby](https://github.com/ClaytonSiby)
