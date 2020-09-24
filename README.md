@@ -11,7 +11,5 @@
 
 ![Clayton's github stats](https://github-readme-stats.vercel.app/api?username=ClaytonSiby&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytonSiby&layout=compact&show_icons=true&theme=radical)](https://github.com/ClaytonSiby/github-readme-stats)
-
 ### ⚡ Fun fact:
-- I love coffee :coffee: :smile:
+- Programming is not easy like Sunday morning, it is silent poetry :smile:
