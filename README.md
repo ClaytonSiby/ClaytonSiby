@@ -12,6 +12,7 @@
 - 💬 Ask me about Web/Software Development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You cannot swim for new horizons until you have courage to lose sight of the shore.
+- Email: claytonsiby@gmail.com
 
 <h2>My Specialties include:</h2>
 
