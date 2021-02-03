@@ -6,10 +6,9 @@
 </p>
 
 - 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m currently learning Full-Stack Software Development (Ruby on Rails, JavaScript and React)
+- 🌱 I’m a Full-Stack Software Developmer (Ruby, Ruby on Rails, JavaScript and React & Redux)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web/Software Development
-- 📫 How to reach me: [Twitter](https://twitter.com/ClaytonSiby), [Linkedin](https://www.linkedin.com/in/clayton-siby/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You cannot swim for new horizons until you have courage to lose sight of the shore.
 
