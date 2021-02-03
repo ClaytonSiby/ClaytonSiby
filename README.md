@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
+- 🌱 I’m currently learning Full-Stack Software Development (Ruby on Rails, JavaScript and React)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web/Software Development
 - 📫 How to reach me: [Twitter](https://twitter.com/ClaytonSiby), [Linkedin](https://www.linkedin.com/in/clayton-siby/)
