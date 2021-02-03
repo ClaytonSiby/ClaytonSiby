@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You cannot swim for new horizons until you have courage to lose sight of the shore.
 
-<h2>My Specialties</h2>
+<h2>My Specialties include:</h2>
 
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-430098?style=flat-square&logo=ruby&logoColor=white" />
