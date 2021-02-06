@@ -20,6 +20,7 @@
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-430098?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Rails-45b8d8?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="API" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=jsl&logoColor=yellow" />
   <img alt="React" src="https://img.shields.io/badge/-React-8DD6F9?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
