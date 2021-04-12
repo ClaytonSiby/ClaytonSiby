@@ -5,7 +5,8 @@
 <a href="https://twitter.com/ClaytonSiby" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://claytonsiby@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-- Please have a look at my <a href="https://claytonsiby.netlify.app" target="_blank" role="noreferrer">portfolio</a> to see some of my work and prospective Stack.
+
+- 💬 Please have a look at my <a href="https://claytonsiby.netlify.app" target="_blank" role="noreferrer">portfolio</a>.
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m a Full-Stack Software Developer (Ruby, Ruby on Rails, JavaScript and React & Redux)
 - 👯 I am looking to join and work with a React/Redux team.
