@@ -6,11 +6,9 @@
 <a href="https://claytonsiby@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 💬 Please have a look at my <a href="https://claytonsiby.netlify.app" target="_blank" role="noreferrer">portfolio</a>.
-- 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m a Full-Stack Software Developer (Ruby, Ruby on Rails, JavaScript and React & Redux)
-- 👯 I am looking to join and work with a React/Redux team.
-- 💬 Ask me about Web/Software Development
+- 🔭 Currently working as a Ruby on Rails Backend Engineer.
+- 👯 Quiet knowledgeable in Ruby, Ruby on Rails, React/Redux and exploring the world on of AI.
+- 💬 Ask me about Web/Software Development and Machine Learning
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You cannot swim for new horizons until you have courage to lose sight of the shore.
 - Email: claytonsiby@gmail.com
