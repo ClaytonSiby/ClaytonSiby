@@ -35,5 +35,3 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
-
-[![Clayton Siby's github stats](https://github-readme-stats.vercel.app/api?username=ClaytonSiby&show_icons=true&theme=radical)](https://github.com/acushlakoncept/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytonSiby&show_icons=true&theme=radical&layout=compact)](https://github.com/ClaytonSiby/github-readme-stats)
