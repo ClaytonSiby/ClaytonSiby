@@ -6,11 +6,11 @@
 <a href="https://claytonsiby@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 🔭 Currently working as a Ruby on Rails Backend Engineer.
-- 👯 Quiet knowledgeable in Ruby, Ruby on Rails, React/Redux and exploring the world on of AI.
-- 💬 Ask me about Web/Software Development and Machine Learning
+- 🔭 Intermediate Ruby on Rails Backend Engineer.
+- 👯 Hands-on experience with Ruby/Ruby on Rails, Python/Django, React/Redux and exploring the world on of AI.
+- 💬 Ask me about Web/Software Development and ML/AI.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You cannot swim for new horizons until you have courage to lose sight of the shore.
+- ⚡ Fact: The greatest achievement was at first and for a time a dream.
 - Email: claytonsiby@gmail.com
 
 <h2>My Specialties include:</h2>
