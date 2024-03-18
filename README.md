@@ -6,9 +6,9 @@
 <a href="https://claytonsiby@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 🔭 Intermediate Ruby on Rails Backend Engineer.
-- 👯 Hands-on experience with Ruby/Ruby on Rails, Python/Django, React/Redux and exploring the world on of AI.
-- 💬 Ask me about Web/Software Development and ML/AI.
+- 🔭 Software Engineer.
+- 👯 Ruby and Python wizard, JavaScript & Typescript coder. Machine Learning and data-science engineering enthusiast.
+- 💬 Ask me about Design|Web|Mobile application development, Machine Learning Deep Neuro-networks.
 - 😄 Pronouns: He/Him
 - ⚡ Fact: The greatest achievement was at first and for a time a dream.
 - Email: claytonsiby@gmail.com
