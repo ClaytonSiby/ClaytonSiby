@@ -151,7 +151,7 @@ const clayton = {
 
 </details>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-aureum.me-success?style=for-the-badge)](https://aureum.tech)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-aureumai.tech-success?style=for-the-badge)](https://aureumai.tech)
 [![API Docs](https://img.shields.io/badge/📖_API_Docs-Swagger-blue?style=for-the-badge)](https://api.aureumai.tech/docs)
 [![Documentation](https://img.shields.io/badge/📚_Full_Docs-GitHub-lightgrey?style=for-the-badge)](https://github.com/ClaytonSiby/Aureum/tree/main/docs)
 
