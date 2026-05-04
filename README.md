@@ -164,20 +164,6 @@ const clayton = {
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ClaytonSiby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaytonSiby&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F472B6&fire=F472B6&currStreakLabel=A78BFA" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytonSiby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook,html,css" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ClaytonSiby&custom_title=Contribution%20Activity&bg_color=0D1117&color=A78BFA&line=F472B6&point=FFFFFF&area_color=A78BFA&area=true&hide_border=true&height=300" />
-
-</div>
-
-<br/>
-
 ## 🏆 Achievements
 
 <div align="center">
